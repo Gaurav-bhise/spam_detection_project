@@ -1,0 +1,16 @@
+passive ip
+keyword extraction 
+face naming 
+secure mining 
+defending 
+smart crwaler 
+regenrate code 
+bug triage 
+mobile app 
+location based encryption 
+android authntication   trust password 
+word segmentation
+2d 3d 
+and hadoop 
+lung cancer 
+cbir

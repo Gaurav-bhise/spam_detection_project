@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="K:/Java projects/Jar/Apache commons/apache-commons.jar"/>
+	<classpathentry kind="lib" path="K:/Java projects/Jar/bcprov-jdk15-130.jar/bcprov-jdk15-130.jar"/>
+	<classpathentry kind="lib" path="K:/Java projects/Jar/bouncycastle.jar/bouncycastle.jar"/>
+	<classpathentry kind="lib" path="K:/Java projects/Jar/jfreechart/jfreechart.jar"/>
+	<classpathentry kind="lib" path="K:/Java projects/Jar/My sql jar/mysql-connector-java-3.2.0-alpha-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
